@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="single_permission_text">Habilitar</string>
+</resources>
